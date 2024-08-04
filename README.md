@@ -8,11 +8,30 @@
   <br>
 </h1>
 
-<h4 align="center">Software backend developer from Colombia</h4>
+<h4 align="center">Software backend developer</h4>
 
 <div align="center">
+  <!-- Visit Counter -->
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Duvan-Alzate&icon=0&color=4" alt="Duvan-Alzate's Visit Count">
+  </a>
+  
+  <!-- Social Media Links -->
+  <br/>
+  <a href="https://www.linkedin.com/in/duvan-alzate/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/DuvanAlzate18">
+    <img src="https://img.shields.io/badge/Twitter or X-100000?style=for-the-badge&logo=x&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.facebook.com/duvan.alzate.3">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/alzate.duvan/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="http://duvanportfolio.liveblog365.com/">
+    <img src="https://img.shields.io/badge/Website-FFB324?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </div>
 
@@ -51,4 +70,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Duvan-Alzate&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+
 
